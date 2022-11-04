@@ -3,7 +3,8 @@
     max-width: 500px;
 }
 
-#welcome h2, #welcome p {
+#welcome h2,
+#welcome p {
     margin-bottom: 1rem;
 }
 
@@ -12,5 +13,5 @@
 }
 
 #welcome img {
-    margin-bottom: 2rem;
+    margin-top: 2rem;
 }
